@@ -112,3 +112,4 @@ test
 ls --color=auto
 more package.json
 clear
+ls --color=auto
