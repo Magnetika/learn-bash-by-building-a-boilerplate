@@ -100,3 +100,4 @@ cd ~/project
 cd freeCodeCamp
 print working directory
 pwd
+ls --color=auto
