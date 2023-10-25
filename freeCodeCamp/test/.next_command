@@ -98,3 +98,5 @@ cd freeCodeCamp
 cd freecodecamp
 cd ~/project
 cd freeCodeCamp
+print working directory
+pwd
