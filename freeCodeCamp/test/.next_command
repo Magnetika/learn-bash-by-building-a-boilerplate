@@ -104,3 +104,4 @@ ls --color=auto
 change directory
 cd freecodecamp
 cd test
+pwd
