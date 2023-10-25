@@ -105,3 +105,5 @@ change directory
 cd freecodecamp
 cd test
 pwd
+cd test
+ls --color=auto
