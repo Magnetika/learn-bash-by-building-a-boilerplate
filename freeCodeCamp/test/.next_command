@@ -101,3 +101,6 @@ cd freeCodeCamp
 print working directory
 pwd
 ls --color=auto
+change directory
+cd freecodecamp
+cd test
