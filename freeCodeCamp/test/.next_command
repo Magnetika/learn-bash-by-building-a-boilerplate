@@ -226,3 +226,6 @@ ls --color=auto
 --help
 ls --color=auto -l
 ls --color=auto --help
+--all
+-a
+ls --color=auto -a
