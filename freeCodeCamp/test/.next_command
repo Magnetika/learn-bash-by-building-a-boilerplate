@@ -178,3 +178,6 @@ ls --color=auto
 ls --color=auto 1
 ls --color=auto -
 ls --color=auto -1
+ls --color=auto
+ls --color=auto -i
+ls --color=auto -l
