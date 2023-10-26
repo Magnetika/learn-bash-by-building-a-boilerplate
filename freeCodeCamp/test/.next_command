@@ -152,3 +152,29 @@ cd node_modules
 cd ~/project/freeCodeCamp
 cd node_modules
 ls --color=auto
+ls --color=auto
+ls --color=auto -1
+ls --color=auto -1
+ls --color=auto
+ls --color=auto -1
+cd ~/project/freeCodeCamp/node_modules
+node_modules
+ls --color=auto -1
+node_modules
+ls --color=auto -1
+cd ~/project/freeCodeCamp/node_modules
+ls --color=auto -1
+cd ~/project/freeCodeCamp/node_modules
+ls --color=auto -1
+ls --color=auto -1
+cd ~/project/freeCodeCamp/node_modules
+ls --color=auto
+ls --color=auto 1
+ls --color=auto -1
+ls --color=auto -1
+ls --color=auto -1
+ls --color=auto -1
+ls --color=auto
+ls --color=auto 1
+ls --color=auto -
+ls --color=auto -1
