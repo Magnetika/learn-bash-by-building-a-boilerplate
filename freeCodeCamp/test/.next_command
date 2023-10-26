@@ -204,3 +204,8 @@ has
 ls --color=auto has
 cd has
 cd ..
+cd
+cd..
+cd ..
+cd ~/project/freeCodeCamp/node_modules/has
+cd ..
