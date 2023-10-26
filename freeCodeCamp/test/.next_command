@@ -200,3 +200,7 @@ ls --color=auto
 more
 more filename
 more index.js
+has
+ls --color=auto has
+cd has
+cd ..
