@@ -183,3 +183,4 @@ ls --color=auto -i
 ls --color=auto -l
 has
 cd has
+ls --color=auto
