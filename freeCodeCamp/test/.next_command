@@ -318,3 +318,6 @@ cp background.jpg images
 __vsc_prompt_cmd_original
 cd images
 ls --color=auto
+__vsc_prompt_cmd_original
+cd website
+cd ..
