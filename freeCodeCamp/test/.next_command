@@ -332,3 +332,4 @@ cd images
 la
 ls --color=auto
 cd ..
+ls --color=auto
