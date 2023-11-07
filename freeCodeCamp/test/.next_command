@@ -251,3 +251,59 @@ echo -n c0e162de-65f3-4842-9d7a-bc0cbb1db57f
 echo -n 871ca307-8769-43c1-a439-328017ae08db
 cat /proc/self/environ
 echo -n 871ca307-8769-43c1-a439-328017ae08db
+[ -d "$HOME/bin" ]
+[ -d "$HOME/.local/bin" ]
+echo -n cec32fd4-2ddc-4e85-ab21-28b4561c5a7f
+cat /proc/self/environ
+echo -n cec32fd4-2ddc-4e85-ab21-28b4561c5a7f
+[ -d "$HOME/bin" ]
+[ -d "$HOME/.local/bin" ]
+'/vscode/vscode-server/bin/linux-x64/d037ac076cee195194f93ce6fe2bdfe2969cc82d/node' -p '"7920cdc15dc6" + JSON.stringify(process.env) + "7920cdc15dc6"'
+[ -d "$HOME/bin" ]
+[ -d "$HOME/.local/bin" ]
+echo -n 45b10317-1890-4ebf-a21d-6f2579c8b331
+cat /proc/self/environ
+echo -n 45b10317-1890-4ebf-a21d-6f2579c8b331
+[ -d "$HOME/bin" ]
+[ -d "$HOME/.local/bin" ]
+'/vscode/vscode-server/bin/linux-x64/2b35e1e6d88f1ce073683991d1eff5284a32690f/node' -p '"1541b7a41e46" + JSON.stringify(process.env) + "1541b7a41e46"'
+[ -d "$HOME/bin" ]
+[ -d "$HOME/.local/bin" ]
+echo -n 497e8040-aef9-48d0-843c-44010911dc9c
+cat /proc/self/environ
+echo -n 497e8040-aef9-48d0-843c-44010911dc9c
+[ -d "$HOME/bin" ]
+[ -d "$HOME/.local/bin" ]
+'/vscode/vscode-server/bin/linux-x64/2b35e1e6d88f1ce073683991d1eff5284a32690f/node' -p '"2907f1b1cfe6" + JSON.stringify(process.env) + "2907f1b1cfe6"'
+[ -d "$HOME/bin" ]
+[ -d "$HOME/.local/bin" ]
+echo -n b80c8f98-bcee-46dd-a928-14a024becb8f
+cat /proc/self/environ
+echo -n b80c8f98-bcee-46dd-a928-14a024becb8f
+builtin unset VSCODE_INJECTION
+[ -z "$VSCODE_SHELL_INTEGRATION" ]
+[ -n "${VSCODE_ENV_REPLACE:-}" ]
+[ -n "${VSCODE_ENV_PREPEND:-}" ]
+[ -n "${VSCODE_ENV_APPEND:-}" ]
+[[ "$(uname -s)" =~ ^CYGWIN*|MINGW*|MSYS* ]]
+[[ "$HISTCONTROL" =~ .. ]]
+__vsc_history_verify=1
+__vsc_initialized=0
+__vsc_original_PS1="$PS1"
+__vsc_original_PS2="$PS2"
+__vsc_custom_PS1=""
+__vsc_custom_PS2=""
+__vsc_in_command_execution="1"
+__vsc_current_command=""
+__vsc_nonce="$VSCODE_NONCE"
+unset VSCODE_NONCE
+[[ -n "${bash_preexec_imported:-}" ]]
+__vsc_dbg_trap="$(__vsc_get_trap DEBUG)"
+[[ -z "$__vsc_dbg_trap" ]]
+[[ "$__vsc_dbg_trap" != '__vsc_preexec "$_"' && "$__vsc_dbg_trap" != '__vsc_preexec_all "$_"' ]]
+trap '__vsc_preexec_all "$_"' DEBUG
+__vsc_original_prompt_command=${PROMPT_COMMAND:-}
+li
+ls --color=auto
+cd ~/project/website
+ls --color=auto
