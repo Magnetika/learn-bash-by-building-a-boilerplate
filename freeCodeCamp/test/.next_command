@@ -238,3 +238,16 @@ git status
 touch roboto.font
 touch lato.font
 touch menlo.font
+[ -d "$HOME/bin" ]
+[ -d "$HOME/.local/bin" ]
+echo -n c0e162de-65f3-4842-9d7a-bc0cbb1db57f
+cat /proc/self/environ
+echo -n c0e162de-65f3-4842-9d7a-bc0cbb1db57f
+[ -d "$HOME/bin" ]
+[ -d "$HOME/.local/bin" ]
+'/vscode/vscode-server/bin/linux-x64/d037ac076cee195194f93ce6fe2bdfe2969cc82d/node' -p '"8572b78ab408" + JSON.stringify(process.env) + "8572b78ab408"'
+[ -d "$HOME/bin" ]
+[ -d "$HOME/.local/bin" ]
+echo -n 871ca307-8769-43c1-a439-328017ae08db
+cat /proc/self/environ
+echo -n 871ca307-8769-43c1-a439-328017ae08db
