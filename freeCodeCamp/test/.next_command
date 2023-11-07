@@ -307,3 +307,4 @@ li
 ls --color=auto
 cd ~/project/website
 ls --color=auto
+touch CodeAlly.svg
