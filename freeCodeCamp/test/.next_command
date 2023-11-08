@@ -432,3 +432,5 @@ find
 find
 help
 find --help
+find -index.html
+find -name index.html
