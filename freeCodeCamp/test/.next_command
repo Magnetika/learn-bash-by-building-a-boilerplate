@@ -468,3 +468,4 @@ mv header.png ..
 mv header.png ..
 cd ~/project/website/images
 mv header.png ..
+ls --color=auto
