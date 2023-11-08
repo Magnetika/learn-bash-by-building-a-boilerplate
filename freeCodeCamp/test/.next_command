@@ -419,3 +419,4 @@ md client
 mkdir client
 mkdir src
 mkdir client/src
+mv index.html client/src
