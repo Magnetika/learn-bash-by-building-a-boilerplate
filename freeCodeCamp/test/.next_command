@@ -393,3 +393,4 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 mv roboto.font roboto.woff
 cd ~/project/website
 mv roboto.font roboto.woff
+ls --color=auto
