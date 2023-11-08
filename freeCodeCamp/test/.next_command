@@ -398,3 +398,4 @@ mv roboto.font roboto.woff
 mv roboto.woff roboto.ttf
 mv roboto.font roboto.ttf
 mv lato.font lato.ttf
+mv menlo.font menlo.otf
