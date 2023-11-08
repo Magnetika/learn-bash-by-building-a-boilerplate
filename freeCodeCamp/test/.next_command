@@ -443,3 +443,4 @@ cd client
 mkdir client/assets
 mkdir assets
 cd assets
+mkdir images
