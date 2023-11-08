@@ -455,3 +455,16 @@ cd ../../..
 cd ~/project/website
 cd images
 ls --color=auto
+mv header.png images
+mv header.png ..
+cd ~/project/website/images
+mv header.png ..
+mv header.png website
+cd images
+cd ~/project/website/images
+mv header.png website
+mv header.png website
+mv header.png ..
+mv header.png ..
+cd ~/project/website/images
+mv header.png ..
