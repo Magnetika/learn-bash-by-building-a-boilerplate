@@ -564,3 +564,4 @@ cd ~/project/website
 mv header.png client/assets/images
 fd header.png
 find -name header.png
+find -name footer.jpeg
