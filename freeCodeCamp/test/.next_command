@@ -580,3 +580,4 @@ cd ~/project/website
 find
 mv CodeRoad.svg client/assets/icons
 mv freeCodeCamp.svg client/assets/icons
+find
