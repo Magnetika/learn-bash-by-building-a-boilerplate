@@ -569,3 +569,5 @@ mv footer.jpeg client/assets/images
 mv images/footer.jpeg client/assets/images
 cd ~/project/website
 find
+__vsc_prompt_cmd_original
+rmdir images
