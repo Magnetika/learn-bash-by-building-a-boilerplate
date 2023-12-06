@@ -578,3 +578,4 @@ mkdir client/assets/icons
 mv CodeAlly.svg client/assets/icons
 cd ~/project/website
 find
+mv CodeRoad.svg client/assets/icons
