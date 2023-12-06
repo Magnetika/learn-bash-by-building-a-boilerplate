@@ -588,3 +588,5 @@ touch client/assets/fonts/roboto-bold.woff
 touch client/assets/fonts/roboto-light.woff
 find
 find client/assets/fonts
+touch lato-bold.ttf
+touch client/assets/fonts/lato-bold.ttf
