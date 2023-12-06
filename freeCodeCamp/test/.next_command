@@ -572,3 +572,4 @@ find
 __vsc_prompt_cmd_original
 rmdir images
 rm images/background.jpg
+rmdir images
