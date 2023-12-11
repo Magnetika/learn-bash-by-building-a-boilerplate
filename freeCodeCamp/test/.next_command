@@ -678,3 +678,24 @@ find website-boilerplate
 clear
 echo goodbye terminal
 exit
+[ -d "$HOME/bin" ]
+[ -d "$HOME/.local/bin" ]
+echo -n 60061fd5-8c5a-4434-ac4a-533b39f91d83
+cat /proc/self/environ
+echo -n 60061fd5-8c5a-4434-ac4a-533b39f91d83
+[ -d "$HOME/bin" ]
+[ -d "$HOME/.local/bin" ]
+echo -n d1a9d989-a33f-4883-8009-d776a2586a92
+cat /proc/self/environ
+echo -n d1a9d989-a33f-4883-8009-d776a2586a92
+[ -d "$HOME/bin" ]
+[ -d "$HOME/.local/bin" ]
+'/vscode/vscode-server/bin/linux-x64/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/node' -p '"9585035b61ca" + JSON.stringify(process.env) + "9585035b61ca"'
+[ -d "$HOME/bin" ]
+[ -d "$HOME/.local/bin" ]
+echo -n 21a75a3c-9a40-4c00-aff8-b92096a1eb42
+cat /proc/self/environ
+echo -n 21a75a3c-9a40-4c00-aff8-b92096a1eb42
+[ -d "$HOME/bin" ]
+[ -d "$HOME/.local/bin" ]
+'/vscode/vscode-server/bin/linux-x64/af28b32d7e553898b2a91af498b1fb666fdebe0c/node' -p '"a95078ab3361" + JSON.stringify(process.env) + "a95078ab3361"'
